@@ -283,7 +283,7 @@ button:focus {
 .mu-apple-btn,
 .mu-google-btn,
 .mu-windows-btn {
-  border: 2px solid #fff;
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 50px;
   color: #fff;
   display: inline-block;
@@ -301,7 +301,7 @@ button:focus {
 .mu-apple-btn:focus,
 .mu-google-btn:focus,
 .mu-windows-btn:focus {
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0);
 }
 
 .mu-apple-btn i,
